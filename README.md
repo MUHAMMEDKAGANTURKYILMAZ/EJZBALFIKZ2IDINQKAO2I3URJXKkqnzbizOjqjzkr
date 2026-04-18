@@ -11,3 +11,5 @@ You will need to edit some files according to yourself, you should write your ow
 And to initialize the code, you can initialize the sh file as follows: ./Write the name of the file sh
 
 And the .env file is invisible in the terminal, don't forget this because it's a hidden file 
+
+And when this queue stops or the device turns off or the electricity goes out, it stops and it doesn't take much charge, it doesn't spend much internet, but if you want it to work well, you can buy vds.
