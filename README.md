@@ -7,3 +7,7 @@ You will need to edit some files according to yourself, you should write your ow
  You have to write what it should tell about in the groq_konular.txt file, but in detail and this bot does not have much authority to look at the sites
 
  Don't get confused by the code in Turkish
+
+And to initialize the code, you can initialize the sh file as follows: ./Write the name of the file sh
+
+And the .env file is invisible in the terminal, don't forget this because it's a hidden file 
